@@ -26,7 +26,7 @@ ClubSuite Documents automatisiert Ihre Vereinskorrespondenz:
 ### Manuelle Installation
 ```bash
 cd /path/to/nextcloud/apps
-git clone https://github.com/clubsuite/clubsuite-documents.git
+git clone https://github.com/ClubSuite-for-Nextcloud/clubsuite-documents.git
 php occ app:enable clubsuite-documents
 ```
 
@@ -50,7 +50,7 @@ AGPL v3 – Siehe [LICENSE](LICENSE)
 
 ## 🐛 Bugs & Feature Requests
 
-[GitHub Issues](https://github.com/clubsuite/clubsuite-documents/issues)
+[GitHub Issues](https://github.com/ClubSuite-for-Nextcloud/clubsuite-documents/issues)
 
 ---
 
