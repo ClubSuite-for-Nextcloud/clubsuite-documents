@@ -1,0 +1,6 @@
+{
+  "name": "Auto-Archivierung",
+  "trigger": "upload",
+  "action": "move",
+  "config": { "target_folder": "Vereinsdokumente/%year%" }
+}

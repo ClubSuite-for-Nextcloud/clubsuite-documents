@@ -1,0 +1,9 @@
+{
+  "translations": {
+    "appName": "Document Workflows",
+    "templates": "Templates",
+    "workflows": "Workflows",
+    "editor": "Editor"
+  },
+  "pluralForm": "nplurals=2; plural=(n != 1);"
+}
